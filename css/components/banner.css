@@ -1,0 +1,21 @@
+.banner{
+background-image: linear-gradient(-225deg, rgba(17, 65, 59, 0.5), rgba(243, 155, 83, 0.3)), url(../../images/chien-chat.jpg);
+color: white;
+padding: 150px 0px;
+background-size: cover;
+background-position: center
+}
+
+.banner h1{
+  font-size: 90px;
+  font-weight: bold;
+  color: #11413B;
+  margin-left: 49PX;
+}
+
+.banner h2{
+color: #F7EAC9;
+font-weight: 200;
+margin-left: 150px;
+
+}
